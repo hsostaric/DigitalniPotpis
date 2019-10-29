@@ -1,0 +1,10 @@
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.csprojAssemblyReference.cache
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.Properties.Resources.resources
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.csproj.GenerateResource.cache
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\bin\Debug\OS2Projekt.exe.config
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\bin\Debug\OS2Projekt.exe
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\bin\Debug\OS2Projekt.pdb
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.exe
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.pdb
+C:\Users\Hrvoje Šoštarić\source\repos\OS2Projekt\OS2Projekt\obj\Debug\OS2Projekt.Form1.resources
